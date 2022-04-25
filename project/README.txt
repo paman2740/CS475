@@ -1,0 +1,10 @@
+-> Import all the required packages 
+-> get the data 
+-> drop all the redudant columns from the dataset 
+-> get rid of all the rows that contains null values 
+-> now make sure if all the data we need is in int form
+-> if not already convert them in to integer form 
+-> Create X and Y values
+-> create models for Random forest and Gradient 
+-> train your model using the test data set
+-> now predict and find the accuracy of you models
